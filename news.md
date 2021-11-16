@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: News
 ---
 
 * Paper on environmental stressor forecasting accepted at IAAI-22!
