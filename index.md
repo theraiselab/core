@@ -1,15 +1,15 @@
 ---
 layout: page
-title: EcoGRAPH
-subtitle: Ecological and Geospatial Research and Applications in Planetary Health
+title: The RAISE Lab
+subtitle: Responsible AI for Social Emancipation
 use-site-title: true
 bigimg: 
-  - "/img/Amhara_Landscape_2009.JPG" : "Landscape, Amhara Region of Ethiopia"
-  - "/img/Amhara_Wetland_2012.JPG" : "Wetland, Amhara Region of Ethiopia"
-  - "/img/Camp_32_Fire.jpg" : "Camp 32 Fire, Northwestern Montana"
-  - "/img/Kakum_Forest_2013.JPG" : "Kakum National Park, Ghana"
-  - "/img/Tana_Sunset_2009.JPG" : "Lake Tana, Ahmara Region of Ethiopia"
-  - "/img/SD_Irrigated_Hay.jpg" : "Irrigated hayfield in South Dakota"
+  - "/img/raise.png" : "The RAISE Lab Logo"
+  - "/img/groupmeet.png" : "Zoom Group Meeting @ RAISE"
+  - "/img/spy.png" : "AI Enabled HIV Prevention among Homeless Youth"
+  - "/img/chattis.png" : "Online Bandits for Social Justice among Farmers"
+  - "/img/covid.jpeg" : "POMDP driven COVID Testing Policies"
+  - "/img/drug.jpeg" : "Causal Inference for Rehabilitation Program Design"
 ---
 
 **<font size = "5">We are recruiting postdoctoral research associates to join our team and work on two exciting new projects: 1) Drought, Fire, and Forest Carbon Dyanmics in West Africa, and 2) Urban Microclimates and Disease Transmission in India. Check out the </font>[<font size = "5">Opportunities</font>](http://ecograph.net/opportunities/) <font size = "5">page for more information!</font>**
