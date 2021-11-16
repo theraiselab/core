@@ -2,139 +2,136 @@
 layout: page
 title: Publications
 ---
-### 2021
-* McMahon, A., A. Mihretie, A. A. Ahmed, M. Lake, W. Awoke, and M. C. Wimberly. 2021. [Remote sensing of environmental risk factors for malaria in different geographic contexts](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-021-00282-0). International Journal of Health Geographics 20: 28.
-* Nekorchuk, D. M., T. Gebrehiwot, M. Lake, W. Awoke, A. Mihretie, and M. C. Wimberly. 2021. [Comparing malaria early detection methods in a declining transmission setting in northwestern Ethiopia](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10850-5). BMC Public Health 21: 788.
-* Wimberly, M. C., K. M. de Beurs, T. V. Loboda, W. K. Pan. 2021. [Satellite observations and malaria: new opportunities for research and applications](https://www.cell.com/trends/parasitology/fulltext/S1471-4922(21)00055-6). Trends in Parasitology 37: 525-537.
 
-### 2020
-* Alemu, W. G., and M. C. Wimberly. 2020. [Evaluation of remotely sensed and interpolated environmental datasets for vector-borne disease monitoring using *in situ* observations over the Amhara Region, Ethiopia](https://www.mdpi.com/1424-8220/20/5/1316/htm). Sensors 20: 1316.
-* Haller, D. J., and M. C. Wimberly. 2020. [Estimating the potential for forest degradation in the eastern United States woodlands from an introduction of sudden oak death](https://www.mdpi.com/1999-4907/11/12/1334). Forests 11: 1334.
-* Rehr, R. C., C. Bandaragoda, B. F. Zaitchik, and M. C. Wimberly. 2020. [A GeoHealth response to a geoscience community climate change position statement](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265). GeoHealth 4: e2020GH000265.
-* Vincent, G. P., J. K. Davis, M. J. Wittry, M. C. Wimberly, Chris D. Carlson, D. L. Patton, and M. B. Hildreth. 2020. [Epidemic West Nile Virus Infection Rates and Endemic Population Dynamics Among South Dakota Mosquitoes: A 15-yr Study from the United States Northern Great Plains](https://academic.oup.com/jme/advance-article-abstract/doi/10.1093/jme/tjz231/5651347?redirectedFrom=fulltext). Journal of Medical Entomology 57: 862–871.
-* Wimberly, M. C., J. K. Davis, M. V. Evans, A. Hess, P. M. Newberry, N. Solano-Asamoah, C. C. Murdock. 2020. [Land cover affects microclimate and temperature suitability for arbovirus transmission in an urban landscape](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008614). PLoS Neglected Tropial Diseases 14(9): e0008614.
 
-### 2019
-* Davis, J. K., Gebrehiwot, T., Worku. M., Awoke, W., Mihretie, A., Nekorchuk, D., and M. C. Wimberly. 2019. [A genetic algorithm for identifying spatially-varying environmental drivers in a malaria time series model](https://www.sciencedirect.com/science/article/pii/S136481521930129X). Environmental Modelling and Software 119: 275-284.
-* Dwomoh, F. K., M. C. Wimberly, M. A. Cochrane, and I. Numata. 2019. [Forest degradation promotes fire during drought in moist tropical forests of Ghana](https://www.sciencedirect.com/science/article/pii/S0378112718321893). Forest Ecology and Management 440: 148-168.
-* Kaskie, K. D., M. C. Wimberly, and P. J. Bauman. 2019. [Rapid assessment of juniper distribution in prairie landscapes of the northern Great Plains](https://www.sciencedirect.com/science/article/pii/S0303243419306294). International Journal of Applied Earth Observation and Geoinformation 83: 101946.
-* Tang, Z., Y. Zhang, N. Cong, M. C. Wimberly, L. Wang, K. Huang, J. Li, J. Zu, Y. Zhu, and N. Chen. 2019. [Spatial pattern of pika holes and their effects on vegetation coverage on the Tibetan Plateau: An analysis using unmanned aerial vehicle imagery](https://www.sciencedirect.com/science/article/pii/S1470160X19305369). Ecological Indicators 107: 105551.
+## 2022
+* Maryam Tabar, Dongwon Lee, David Hughes, and Amulya Yadav. [Mitigating Low Agricultural Productivity of Smallholder Farms in Africa: Time-Series Forecasting for Environmental Stressors](http://amulyayadav.com/Papers/iaai22.pdf). In Proc. 34th AAAI Conference on Innovative Applications of Artificial Intelligence (IAAI), 2022.
 
-### 2018
-* Hess, A., J. K. Davis, and M. C. Wimberly. 2018. [Identifying environmental risk factors and mapping the distribution of West Nile virus in an endemic region of North America](https://doi.org/10.1029/2018GH000161). GeoHealth 2: https://doi.org/10.1029/2018GH000161. 
-* Davis, J. K., G. P. Vincent, M. B. Hildreth, L. Kightlinger, C. Carlson, and M. C. Wimberly. 2018. [Improving the prediction of arbovirus outbreaks: a comparison of climate-driven models for West Nile virus in an endemic region of the United States](https://www.sciencedirect.com/science/article/pii/S0001706X18300512). Acta Tropica 185: 242-250.
-* Lin, Y., M. C. Wimberly, P. Da Rosa, J. Hoover, and W. F. Athas. 2018. [Geographic access to radiation therapy facilities and disparities of early-stage breast cancer treatment](https://geospatialhealth.net/index.php/gh/article/view/622). Geospatial Health 13:622.
-* Vincent, G. P., J. K. Davis, M. C. Wimberly, C. D. Carlson, and M. B. Hildreth. 2018. [Permethrin susceptibility for the vector *Culex tarsalis* and a nuisance mosquito *Aedes vexans* in an area endemic for West Nile virus](https://www.hindawi.com/journals/bmri/2018/2014764/). BioMed Research International, Article ID 2014746.
-* Wimberly, M. C., D. M. Narem, P. J. Bauman, B. T. Carlson, and M. A. Ahlering. 2018. [Grassland connectivity in fragmented agricultural landscapes of the north-central United States](https://www.sciencedirect.com/science/article/pii/S0006320717311308). Biological Conservation 217: 121-130.
+## 2021
+* Eric Rice, Bryan Wilder, Laura Onasch-Vera, Graham DiGuiseppi, Robin Petering, Chyna Hill, Amulya Yadav, Sung-Jae Lee and Milind Tambe. [A Peer-Led, Artificial Intelligence-Augmented Social Network Intervention to Prevent HIV among Youth Experiencing Homelessness](https://journals.lww.com/jaids/Fulltext/2021/12151/A_Peer_Led,_Artificial_Intelligence_Augmented.4.aspx). In Proc. of the Journal of Acquired Immunodeficiency Syndrome (JAIDS), Volume 88, Issue S1, pp. S20--S26, 2021.
 
-### 2017
-* Davis, J. K., G. P. Vincent, M. B. Hildreth, L. Kightlinger, C. Carlson, and M. C. Wimberly. 2017. [Integrating environmental monitoring and mosquito surveillance to predict vector-borne disease: Prospective forecasts of a West Nile virus outbreak](http://currents.plos.org/outbreaks/index.html%3Fp=73093.html). PLoS Currents Outbreaks. 2017 May 23. Edition 1. doi: 10.1371/currents.outbreaks.90e80717c4e67e1a830f17feeaaf85de.
-* Dwomoh, F. K., and M. C. Wimberly. 2017. [Fire regimes and forest resilience: alternative vegetation states in the West African tropics](https://link.springer.com/article/10.1007/s10980-017-0553-4). Landscape Ecology 32: 1849-1865.
-* Dwomoh, F. K., and M. C. Wimberly. 2017. [Fire regimes and their drivers in the Upper Guinean Region of West Africa](https://www.mdpi.com/2072-4292/9/11/1117/htm). Remote Sensing 9: 1117.
-* Lin, Y., and M. C. Wimberly. 2017. [Geographic variations of colorectal and breast cancer late-stage diagnosis and the effects of neighborhood-level factors](https://onlinelibrary.wiley.com/doi/full/10.1111/jrh.12179). Journal of Rural Health 33: 146-157. 
-* Liu, Z., M. C. Wimberly, F. K Dwomoh. 2017. [Vegetation dynamics in the Upper Guinean Forest region of West Africa from 2001 to 2015](https://www.mdpi.com/2072-4292/9/1/5). Remote Sensing. 9(1): 5. 
-* Merkord, C. L., Y. Liu, A. Mihretie, T. Gebrehiwot, W. Awoke, E. Bayabil, G. M. Henebry, G. T. Kassa, M. Lake, and M. C. Wimberly. 2017. [Integrating malaria surveillance with climate data for outbreak detection and forecasting: the EPIDEMIA system](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-017-1735-x). Malaria Journal 16:89.
-* Vogelmann, J. E., P. V. Khoa, D. X. Lan, J. Shermeyer, H. Shi, M. C. Wimberly, H. T. Duong, and L. V. Huong, L.V., 2017. [Assessment of forest degradation in Vietnam using Landsat time series data](https://www.mdpi.com/1999-4907/8/7/238). Forests, 8(7), 238.
-* Wang, T. M. Luri, L. Janssen, D. A. Hennessy, H. Feng, M. C. Wimberly, and G. Arora. 2017. [Determinants of motives for land use decisions at the margins of the Corn Belt](https://www.sciencedirect.com/science/article/pii/S0921800916304888). Ecological Economics: 134: 227-237.
-* Wimberly, M. C., L. L. Janssen, D. A. Hennessy, M. Luri, N. M. Chowdhury, and H. Feng. 2017. [Cropland expansion and grassland loss in the eastern Dakotas: New insights from a farm-level survey](https://www.sciencedirect.com/science/article/pii/S0264837716310857). Land Use Policy 63: 160-173.
 
-### 2016
-* Liu, Z., M. C. Wimberly. 2016. [Direct and indirect effects of climate change on projected future fire regimes in the western United States](https://www.sciencedirect.com/science/article/pii/S0048969715309098?via%3Dihub). Science of the Total Environment 542: 65-75. 
-* Sohl, T. L., M. C. Wimberly, V. C. Radeloff, D. M. Theobald, B. M. Sleeter. 2016. [Divergent projections of future land use in the United States arising from different models and scenarios](https://www.sciencedirect.com/science/article/pii/S0304380016302605?via%3Dihub). Ecological Modelling 337: 281–297
-* Wimberly, M. C., T. Gebrehiwot, M. Bishaw, W. Yalew, and A. Mihretie. 2016. EPIDEMIA: Integrating climate information and disease surveillance for malaria epidemic forecasting in Ethiopia. Pages 110-113 In: J. Shumake-Guillemot and L. Fernandez-Montoya, editors. [Climate Services for Health: Improving Public Health Decision-Making in a New Climate](https://public.wmo.int/en/resources/library/climate-services-health-case-studies). World Health Organization/World Meteorological Organization. Geneva, Switzerland.
+* Maryam Tabar, Jared Gluck, Anchit Goyal, Fei Jiang, Derek Morr, Annalyse Kehs, Dongwon Lee, David Hughes, and Amulya Yadav. [A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting](http://amulyayadav.com/Papers/kdd21.pdf). In Proc. 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), pp. 3595--3604, 2021.
 
-### 2015
-* Alemu, H. T., A. T. Kaptue, B. G. Senay, M. C. Wimberly, and G. M. Henebry. 2015. [Evapotranspiration in the Nile Basin: Identifying dynamics and drivers, (2002-2011)](https://www.mdpi.com/2073-4441/7/9/4914). Water 7: 4914-4931.
-* Liu, Y., J. Hu, I. Snell-Feikema, M. S. VanBemmel, A. Lamsal, M. C. Wimberly. 2015. [Software to facilitate remote sensing data access for disease early warning systems](https://www.sciencedirect.com/science/article/pii/S1364815215300116). Environmental Modelling and Software 74: 238-246. 
-* Liu, Z., M. C. Wimberly. 2015. [Climatic and landscape influences on fire regimes from 1984 to 2010 in the western United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140839). PLoS One 10(10): e0140839. 
-* Liu, Z., M. C. Wimberly, A. Lamsal, T. L. Sohl, T. J. Hawbaker. 2015. [Climate change and wildfire risk in an expanding wildland-urban interface: a case study from the Colorado Front Range Corridor](https://link.springer.com/article/10.1007%2Fs10980-015-0222-4). Landscape Ecology 30: 1943-1957.
-* Michimi, A., and M. C. Wimberly. 2015. [Food environment and adult obesity in US metropolitan areas](https://www.geospatialhealth.net/index.php/gh/article/view/368). Geospatial Health 10: 368.
-* Midekisa A., B. Beyene, A. Mihretie, E. Bayabil, M. C. Wimberly. 2015. [Seasonal associations of climatic drivers and malaria in the highlands of Ethiopia](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0954-7). Parasites & Vectors 8: 339. 
-* Reis, S. E., Seto , A. Northcross, N.W.T. Quinn, M. Convertino, R. L. Jones, H. R. Maier, U. Schlink, S. Steinle, M. Vieno, M. C. Wimberly. 2015. [Integrating modelling and smart sensors for environmental and human health](https://www.sciencedirect.com/science/article/pii/S136481521500167X). Environmental Modelling and Software 74: 238-246.
-* Wimberly, M. C. T. L. Sohl, Z. Liu, and A. Lamsal. 2015. [Simulating forest landscapes as coupled human and natural systems](https://www.researchgate.net/publication/283779881_Simulating_Forest_Landscape_Disturbances_as_Coupled_Human_and_Natural_Systems). Pages 233-216 In: A. Perera, B. Sturtevant, and L. Buse, editors. Modeling Forest Landscape Disturbances. Springer, New York.
-* Zhang, T., Y. Zhang, M. Xu, J. Zhu, M. C. Wimberly, G. Yu, S. Niu, X. Zhang, J. Wang. 2015. [Light-intensity grazing improves alpine meadow productivity and adaption to climate change on the Tibetan Plateau](https://www.nature.com/articles/srep15949). Scientific Reports 5: 15949.
 
-### 2014
-* Mehls, C. L., K. C. Jensen, M. A. Rumble, and M. C. Wimberly. 2014. [Multi-scale habitat use of male ruffed grouse in the Black Hills National forest](https://greatplainsnaturalsciencesociety.files.wordpress.com/2017/01/pdf-mehls-46-1.pdf). The Prairie Naturalist 46: 21-33.
-* Midekisa, A., G. B. Senay, and M. C. Wimberly. 2014. [Multi-sensor Earth Observations to Characterize Wetlands and Malaria Epidemiology in Ethiopia](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014WR015634). Water Resources Research 50: 8791-8806.
-* Wimberly, M. C., A. Lamsal, P. Giacomo, and T. Chuang. 2014. [Regional variation of climatic influences on West Nile virus outbreaks in the United States](http://www.ajtmh.org/content/journals/10.4269/ajtmh.14-0239). American Journal of Tropical Medicine and Hygiene 91: 677-684. 
-* Wimberly, M. C., and Z. Liu. 2014. [Interactions of climate, fire, and management in future forests of the Pacific Northwest](https://www.sciencedirect.com/science/article/pii/S0378112713006579). Forest Ecology and Management 327: 270-279.
-* Wimberly, M. C., and A. Midekisa. 2014. [Hydro-epidemiology of the Nile Basin: Understanding the complex linkages between water and infectious diseases](https://www.researchgate.net/publication/262912212_Hydro-Epidemiology_of_the_Nile_Basin_Understanding_the_Complex_Linkages_Between_Water_and_Infectious_Diseases). Pages 219-236 In: A. M. Melesse, W. Abtew, and S. G. Setegn, editors. Nile River Basin: Ecohydrological Challenges, Climate Change and Hydropolitics. Springer, New York.
-* Zhang, Y., G. Yu, J. Yang, M. C. Wimberly, X. Zhang, J. Tao, Y. Jiang, and J. Zhu. 2014. [Climate-driven global changes in carbon use efficiency](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12086). Global Ecology and Biogeography 23: 144-155.
+* Hangzhi Guo, Thanh Nguyen, Amulya Yadav. [CounterNet: End-to-End Training of Counterfactual Aware Prediction](http://amulyayadav.com/Papers/icml2021workshop.pdf). In ICML 21 International Workshop on Algorithmic Recourse, 2021. **Best Paper Award (Runner-Up) in Recourse-21 Workshop at ICML 2021.**
 
-### 2013
-* Broich, M., M. C. Hansen, P. V. Potapov, and M. C. Wimberly 2013. [Patterns of tree cover loss along the Indonesia-Malaysia border on Borneo](https://www.tandfonline.com/doi/abs/10.1080/01431161.2013.796099). International Journal of Remote Sensing. 34: 5748-5760.
-* Chintala, R., M. C. Wimberly, G. D. Djira, and M. G. Tulbure. 2013. [Interannual variability of crop residue potential in the north-central region of the United States](https://www.sciencedirect.com/science/article/pii/S0961953412005168). Biomass and Bioenergy 49: 231-238.
-* Narayanaraj, G., and M. C. Wimberly. 2013. [Influences of forest roads and their edge effects on the spatial pattern of burn severity](https://www.sciencedirect.com/science/article/pii/S0303243412002462). International Journal of Applied Earth Observation and Geoinformation 23: 62-70. 
-* Stanturf, J. A., and M. C. Wimberly. 2013. [Demographic trends in the Eastern US and the wildland-urban interface: Implications for fire management](https://www.researchgate.net/publication/312686870_Demographic_Trends_in_the_Eastern_US_and_the_Wildland_Urban_Interface_Implications_for_Fire_Management). Pages 19-40 In: J. J. Qu, W. Sommers, A. Biebau, R. Yang, and M. Kafaros, editors. Remote Sensing and Modeling Applications to Wildland Fires. Springer, New York.
-* Wimberly, M. C., P. Giacomo, L. Kightlinger, and M. B. Hildreth. 2013. [Spatio-temporal epidemiology of human West Nile virus disease in South Dakota](https://www.mdpi.com/1660-4601/10/11/5584). International Journal of Environmental Research and Public Health 10: 5584-5602.
-* Wright, C. K., and M. C. Wimberly. 2013. [Recent land use change in the western Corn Belt threatens grasslands and wetlands](http://www.pnas.org/content/110/10/4134). Proceedings of the National Academy of Sciences of the United States of America 110: 4134-4139. 
 
-### 2012
-* Chuang, T., C. W. Hockett, L. Kightlinger, and M. C. Wimberly. 2012. [Landscape-level spatial patterns of West Nile virus risk in the northern Great Plains](http://www.ajtmh.org/content/journals/10.4269/ajtmh.2012.11-0515). American Journal of Tropical Medicine and Hygiene 86: 724-731.
-* Chuang, T., G. M Henebry, J. S. Kimball, D.L. VanRoekel-Patton, M. B. Hildreth, and M. C. Wimberly. 2012. [Satellite microwave remote sensing for environment modeling of mosquito population dynamics](https://www.sciencedirect.com/science/article/pii/S0034425712002921). Remote Sensing of Environment 125: 147-156. 
-* Chuang T., and M. C. Wimberly. 2012. [Remote Sensing of Climatic Anomalies and West Nile Virus Incidence in the Northern Great Plains of the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0046882). PLoS One 7:e46882.
-* Cochrane, M. A., C. J. Moran, M. C. Wimberly, A. D. Baer, M. A. Finney, K. L. Beckendorf, J. Eidenshink, and Z. Zhu. 2012. [Estimation of wildfire size and risk changes due to fuels treatment](http://www.publish.csiro.au/WF/WF11079). International Journal of Wildland Fire 21: 357-367.
-* Klaver, R. W., D. Backlund, P. E. Bartelt, M. G. Erickson, C. J. Knowles, P. R. Knowles, and M. C. Wimberly. 2012. [Spatial analysis of northern goshawk territories in the Black Hills, South Dakota](http://www.bioone.org/doi/abs/10.1525/cond.2012.110080). The Condor 114: 532-543. 
-* Michimi, A., and M. C. Wimberly. 2012. [Natural environments, obesity, and physical activity in nonmetropolitan areas of the United States](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1748-0361.2012.00413.x). Journal of Rural Health 28: 398-407.
-* Midekisa, A., G. Senay, G. M. Henebry, P. Semuniguse, and M. C. Wimberly. 2012. [Remote sensing-based time series models for malaria early warning in the highlands of Ethiopia](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-11-165). Malaria Journal 11: 165.
-* Narayanaraj, G., and M. C. Wimberly. 2012. [Influences of forest roads on the spatial patterns of human-and lightning-caused wildfire ignitions](https://www.sciencedirect.com/science/article/pii/S0143622811001731). Applied Geography 32: 878-888.
-* Spindler, B. D., S. R. Chipps, R. A. Klumb, B. D. S. Graeb, and M. C. Wimberly. 2012. [Habitat and prey availability attributes associated with juvenile and early adult pallid sturgeon occurrence in the Missouri River](https://www.int-res.com/abstracts/esr/v16/n3/p225-234/). Endangered Species Research 16: 225-234.
-* Tulbure, M., M. C. Wimberly, A. Boe, and V. N. Owens. 2012. [Climatic and genetic controls of yields of switchgrass, a model bioenergy species](https://www.sciencedirect.com/science/article/pii/S0167880911003525). Agriculture, Ecosystems, and Environment 146: 121-129. 
-* Tulbure, M. G., M. C. Wimberly and V. N. Owens. 2012. [Response of switchgrass yield to future climate change](http://iopscience.iop.org/article/10.1088/1748-9326/7/4/045903). Environmental Research Letters 7: 045903.
-* Wimberly, M. C., S. P. Boyte, and E. J. Gustafson. 2012. [Understanding landscapes through spatial modeling](https://www.researchgate.net/publication/259913473_Understanding_Landscapes_Through_Spatial_Modeling). Pages 111-128 In: J. A. Stanturf, P. Madsen, and D. Lamb (Editors), Forest Landscape Restoration: Integrating Natural and Social Sciences. Springer, New York.
-* Wimberly, M. C., A. Midekisa, P. Semuniguse, H. Teka, G. M. Henebry, T. Chuang, and G. B. Senay. 2012. [Spatial synchrony of malaria outbreaks in a highland region of Ethiopia](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-3156.2012.03058.x). Tropical Medicine & International Health 17: 1192-1201.
+* Yu Liang, and Amulya Yadav. [Let the DOCTOR Decide Whom to Test: Adaptive Testing Strategies to Tackle the COVID-19 Pandemic](http://amulyayadav.com/Papers/AAMAS21.pdf). In Proc. 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 790--798, 2021.
 
-### 2011
-* Chuang, T. M. B. Hildreth, M. B., D. L. VanRoekel, and M. C. Wimberly. 2011. [Weather and land cover influences on mosquito populations in Sioux Falls](http://www.bioone.org/doi/abs/10.1603/ME10246), South Dakota. Journal of Medical Entomology 48: 669-679. 
-* Narayanaraj, G., and M. C. Wimberly. 2011. [Influences of forest roads on the spatial pattern of wildfire boundaries](https://www.publish.csiro.au/WF/WF10032). International Journal of Wildland Fire 20: 792-803.
-* Tulbure, M., M. C. Wimberly, D. P. Roy, and G. M Henebry. 2011. [Spatial and temporal distribution of fires in the central United States from three years of MODIS active fire detection data](https://link.springer.com/article/10.1007/s10980-010-9548-0). Landscape Ecology 26: 211-224.
-* Wimberly, M. C., E. Lindquist and C. L. Wey. 2011. [Analysis of the 2002 Equine West Nile Virus Outbreak in South Dakota Using GIS and Spatial Statistics](https://www.researchgate.net/publication/299455995_Analysis_of_the_2002_Equine_West_Nile_Virus_Outbreak_in_South_Dakota_Using_GIS_and_Spatial_Statistics). Pages 191-206 In S. Clay (Editor), GIS Applications in Agriculture: Invasive Species. CRC Press, Boca Raton, FL.
 
-### 2010
-* Michimi, A., and M. C. Wimberly. 2010. [Associations of supermarket accessibility with obesity and fruit and vegetable consumption in the conterminous United States](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-9-49). International Journal of Health Geographics 9:49.
-* Michimi, A., and M. C. Wimberly. 2010. [Spatial patterns of obesity and associated risk factors in the conterminous U.S.](https://www.ajpmonline.org/article/S0749-3797(10)00320-X/abstract) American Journal of Preventive Medicine 39: e1-12.
-* Pijanowski, B., L. R. Iverson, A. Drew, H. Bulley, J. M Rhemtulla, M. C. Wimberly, A. Bartsch, and J. Peng. 2010. [Addressing the interplay of poverty and landscapes: a grand challenge for landscape ecologists](https://link.springer.com/article/10.1007/s10980-009-9415-z). Landscape Ecology 25: 5-16. 
+* Zi-Yi Dou, Anamika Barman-Adhikari, Fei Fang, and Amulya Yadav. [Harnessing Social Media to Identify Homeless Youth At-Risk of Substance Use](http://amulyayadav.com/Papers/aaai21fb.pdf). In Proc. 35th AAAI Conference on Artificial Intelligence, pp. 14748--14756, 2021.
 
-### 2009
-* Kennedy, R. S. H., and M. C. Wimberly. 2009. [Historical fire and vegetation dynamics in dry forests of the interior Pacific Northwest, USA and relationships to Northern Spotted Owl (Strix occidentalis caurina) habitat conservation](https://www.sciencedirect.com/science/article/pii/S0378112709002977). Forest Ecology and Management 258: 554-566.
-* Pierce, K. B., J. L. Ohmann, M. C. Wimberly, M. J. Gregory, and J. S. Fried. 2009. [Imputation mapping of wildland fuels and forest structure for management and simulation modeling](http://www.nrcresearchpress.com/doi/abs/10.1139/X09-102?journalCode=cjfr#.XAQc-C2ZNBw). Canadian Journal of Forest Research 39: 1901-1916.
-* Spindler, B. D., S. R. Chipps, R. A. Klumb, and M. C. Wimberly. 2009. [Spatial analysis of pallid sturgeon Scaphirhynchus albus distribution in the Missouri River, South Dakota](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1439-0426.2009.01283.x). Journal of Applied Icthyology 25: 8-13.
-* Wey, C. L., J. Griesse, L. Kightlinger, and M. C. Wimberly. 2009. [Geographic variability in geocoding success for West Nile virus cases in South Dakota, USA](https://www.sciencedirect.com/science/article/abs/pii/S1353829209000586). Health & Place 15: 1108-1114.
-* Wimberly, M. C., M. A. Cochrane, A. D. Baer, and K. Pabst. 2009. [Assessing fuel treatment effectiveness using satellite imagery and spatial statistics](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/08-1685.1). Ecological Applications 19: 1377-1384.
 
-### 2008
-* Wimberly, M. C., M. B. Hildreth, S. P. Boyte, E. Lindquist, and L. Kightlinger. 2008. [Ecological niche of the 2003 West Nile virus epidemic in the northern Great Plains of the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003744). PLoS One 3: e3744.
-* Wimberly, M. C., A. B. Baer, and M. J. Yabsley. 2008. [Enhanced spatial models for predicting the geographic distributions of tick-borne pathogens](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-7-15). International Journal of Health Geographics 7:15.
-* Wimberly, M. C., and R. S. H. Kennedy. 2008. [Spatially explicit modeling of mixed-severity fire regimes and landscape dynamics in the interior Pacific Northwest](https://www.sciencedirect.com/science/article/pii/S0378112707005051). Forest Ecology and Management 254: 511-523.
-* Wimberly, M. C., M. J. Yabsley, A. B. Baer, V. G. Dugan, and W. R. Davidson. 2008. [Spatial heterogeneity of climate and land cover constraints on distributions of tick-borne pathogens](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1466-8238.2007.00353.x). Global Ecology and Biogeography 17: 189-202.
+* Bryan Wilder, Laura Onasch-Vera, Graham Diguiseppi, Robin Petering, Chyna Hill, Amulya Yadav, Eric Rice and Milind Tambe. [Clinical trial of an AI-augmented intervention for HIV prevention in youth experiencing homelessness](http://amulyayadav.com/Papers/aaai21hiv.pdf). In Proc. 35th AAAI Conference on Artificial Intelligence, pp. 14948--14956, 2021. **Best Student Paper Award at the Mechanism Design for Social Good (MD4SG) Workshop, 2020.**
 
-### 2007
-* Manangan, J. S., S. H. Schweitzer, N. Nibbelink, M. J. Yabsley, S. E. J. Gibbs, and M. C. Wimberly. 2007. [Habitat factors influencing distributions of Anaplasma phagocytophilum and Ehrlichia chaffeensis in the Mississippi Alluvial Valley](https://www.liebertpub.com/doi/abs/10.1089/vbz.2007.0116). Vector-Borne and Zoonotic Diseases 7: 563-574.
-* Nonaka, E., T. A. Spies, M. C. Wimberly, and J. L. Ohmann. 2007. [Historical range of variability (HRV) in live and dead wood biomass: a regional-scale simulation study](http://www.nrcresearchpress.com/doi/abs/10.1139/X07-064#.XAQexC2ZNBw). Canadian Journal of Forest Research 37: 2349-2364. 
-* Wimberly, M. C., and M. J. Reilly. 2007. [Assessment of fire severity and species diversity in the southern Appalachians using Landsat TM and ETM+ imagery](https://www.sciencedirect.com/science/article/abs/pii/S0034425706004640). Remote Sensing of Environment: 189-197.
-* Zhang, Y., and M. C. Wimberly. 2007. [The importance of scale in using hierarchical census data to identify the wildland-urban interface](https://academic.oup.com/sjaf/article/31/3/138/4782396). Southern Journal of Applied Forestry 31: 138-147.
+## 2020
+* Yu Liang, Amulya Yadav. [Efficient COVID-19 Testing Using POMDPs](http://amulyayadav.com/Papers/AI4SG.pdf). In 3rd International Workshop on Artificial Intelligence for Social Good (AI4SG), 2020.
 
-### 2006
-* Gibbs, S. E. J., M. C. Wimberly, M. Madden, J. Masour, M. J. Yabsley, and D. E. Stallknecht. 2006. [Factors affecting the geographic distribution of West Nile virus in Georgia, USA. 2002-2004](https://www.liebertpub.com/doi/abs/10.1089/vbz.2006.6.73). Vector-Borne and Zoonotic Diseases 6: 73-82.
-* Reilly, M. J., M. C. Wimberly, and C. L. Newell. 2006. [Wildfire effects on beta diversity and species turnover in a forested landscape](http://www.bioone.org/doi/abs/10.1658/1100-9233%282006%2917%5B447%3AWEODAS%5D2.0.CO%3B2?mobileUi=0&journalCode=vegs). Journal of Vegetation Science 17: 447-454.
-* Reilly, M. J., M. C. Wimberly, and C. L. Newell. 2006. [Wildfire effects on plant species richness at multiple spatial scales in forest communities of the southern Appalachians](https://www.jstor.org/stable/3599615?seq=1#page_scan_tab_contents). Journal of Ecology 94: 118-130.
-* Wimberly, M. C. 2006. [Species dynamics in disturbed landscapes: when does a shifting habitat mosaic enhance connectivity?](https://link.springer.com/article/10.1007/s10980-005-7757-8) Landscape Ecology 21: 35-46.
-* Wimberly, M. C., Y. Zhang, and J. A. Stanturf. 2006. [Digital forestry in the wildland-urban interface](https://www.researchgate.net/publication/226832448_Digital_forestry_in_the_wildland-urban_interface). Pages 201 222 In: Shao, G. and K. M. Reynolds, editors. Computer Applications in Sustainable Forest Management: Including Perspectives on Collaboration and Integration. Springer, New York.
 
-### 2005
-* Yabsley, M. J., M. C. Wimberly, D. E. Stallknecht, S. E. Little, and W. R. Davidson. 2005. [Spatial analysis of the distribution of Ehrlichia chaffeensis, causative agent of human monocytotropic ehrlichiosis, across a multi-state region](http://www.ajtmh.org/content/journals/10.4269/ajtmh.2005.72.840?related-urls=yes&legid=tropmed;72/6/840). American Journal of Tropical Medicine and Hygiene 72: 840-850.
-* Zhao, G., G. Shao, K. M Reynolds, M. C. Wimberly, T. Warner, J. W. Moser, K. Rennolls, S. Magnussen, M. Kohl, H. Anderson, G. A. Mendoza, L. Dai, A. Huth, L. Zhang, J. Brey, Y. Sun, R. Ye, B. A. Martin, and F. Li. 2005. [Digital forestry: A white paper](https://academic.oup.com/jof/article/103/1/47/4598608). Journal of Forestry 103(1): 47-50.
+* Maryam Tabar, Chi-Yang Hsu, Hangzhi Guo, Amirreza Bagherzadehkhorasani and Amulya Yadav. [Ameliorating Farmer Suicides by Predicting Crop Price Trends using a Deep Learning Approach](http://amulyayadav.com/Papers/AI4EQ.pdf). In Proc. ECAI 2020 International Workshop on Artificial Intelligence for a Fair, Just and Equitable World (AI4EQ), 2020.
 
-### 2004
-* Wimberly, M. C. 2004. [Fire and forest landscapes in the Georgia Piedmont: An assessment of spatial modeling assumptions](https://www.sciencedirect.com/science/article/pii/S0304380004003485). Ecological Modelling 180: 41-56.
-* Wimberly, M. C., and J. L. Ohmann. 2004. [A multi-scale assessment of human and environmental constraints on forest land cover change on the Oregon (USA) Coast Range](https://link.springer.com/article/10.1023/B:LAND.0000042904.42355.f3). Landscape Ecology 19: 631-646.
-* Wimberly, M. C., T. A. Spies, and E. Nonaka, 2004. [Using criteria based on the natural fire regimes to evaluate forest management in the Oregon Coast Range](https://www.researchgate.net/publication/308605616_Using_Criteria_Based_on_the_Natural_Fire_Regime_to_Evaluate_Forest_Management_in_the_Oregon_Coast_Range_of_the_United_States_Concepts_and_Applications). Page 146-157 In: Perera, A. H., L. J. Buse, and M. G. Weber, editors. Emulating Natural Forest Landscape Disturbances: Concepts and Applications. Columbia University Press, New York.
 
-### Pre-2004
-* Wimberly, M. C. 2002. [Spatial simulation of historical landscape patterns in coastal forests of the Pacific Northwest](http://www.nrcresearchpress.com/doi/abs/10.1139/x02-054#.XAQmBS2ZNBw). Canadian Journal of Forest Research 32: 1316-1328.
-* Wimberly, M. C., and T. A. Spies. 2002. [Landscape- vs. gap-scale controls on the abundance of a fire-sensitive, late-successional tree species](https://link.springer.com/article/10.1007/s10021-001-0068-2). Ecosystems 5: 232-243.
-* Wimberly, M. C., and T. A. Spies. 2001. [Modeling landscape patterns of understory tree regeneration in the Pacific Northwest, USA](https://www.jstor.org/stable/1478941?seq=1#page_scan_tab_contents). Applied Vegetation Science 4: 277-286.
-* Wimberly, M. C., and T. A. Spies. 2001. [Influences of environment and disturbance on forest patterns in coastal Oregon watersheds](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9658%282001%29082%5B1443%3AIOEADO%5D2.0.CO%3B2). Ecology 82: 1443-1459.
-* Wimberly, M. C., T. A. Spies, C. J. Long, and C. Whitlock. 2000. [Simulating Historical Variability in the Amount of Old Forests in the Oregon Coast Range](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1523-1739.2000.98284.x). Conservation Biology 14: 167-180.
-* Wimberly, M. C., and B. B. Bare. 1996. [Distance-dependent and distance-independent models of Douglas-fir and western hemlock basal area growth following silvicultural treatment](https://www.sciencedirect.com/science/article/pii/S0378112796038704). Forest Ecology and Management 89: 1-11.
+* Maryam Tabar, Heesoo Park, Stephanie Winkler, Dongwon Lee, Anamika Barman-Adhikari, Amulya Yadav. [Identifying Homeless Youth at-risk of Substance Use Disorder: Data Driven Insights for Policymakers](http://amulyayadav.com/Papers/kdd2020.pdf). In Proc. 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), pp. 3092--3100, 2020.
+
+
+* Amulya Yadav, Roopali Singh, Nikolas Siapoutis, Anamika Barman-Adhikari, Yu Liang. [Optimal and Non-Discriminative Rehabilitation Program Design for Opioid Addiction Among Homeless Youth](http://amulyayadav.com/Papers/ijcai2020.pdf). In Proc. 29th International Joint Conference on Artificial Intelligence (IJCAI), pp. 4389--4395, 2020.
+
+
+* Thanh Nguyen, Nam Vu, Amulya Yadav, Uy Nguyen. [Decoding the Imitation Security Game: Handling Attacker Imitative Behavior Deception](http://amulyayadav.com/Papers/ecai20.pdf). In Proc. 24th European Conference on Artificial Intelligence (ECAI), pp. 179--186, 2020.
+
+
+* Hangzhi Guo, Alexander Woodruff, Amulya Yadav. [Improving Lives of Indebted Farmers Using Deep Learning: Predicting Agricultural Produce Prices Using Convolutional Neural Networks](http://amulyayadav.com/Papers/IAAI2020.pdf). In Proc. 32nd Intl. Conf. on Innovative Applications of Artificial Intelligence (IAAI), pp. 13294--13299, 2020.
+
+
+* Stephanie Milani, Amulya Yadav, Fei Fang, Thanh Nguyen, Zhou Fan and Saurabh Gulati. [Intelligent Tutoring Strategies for Students with Autism Spectrum Disorder: A Reinforcement Learning Approach](http://amulyayadav.com/Papers/AAAI_RELETAS.pdf). In Proc. AAAI 2020 Workshop on Artifical Intelligence for Education (AI4EDEU), 2020.
+
+## 2019
+* Aida Rahmattalabi, Phebe Vayanos, Anthony Fulginiti, Eric Rice, Bryan Wilder, Amulya Yadav, Milind Tambe. [Exploring Algorithmic Fairness in Robust Graph Covering Problems](http://amulyayadav.com/Papers/nips19.pdf). In Proc. 33rd Intl. Conf. on Neural Information Processing Systems (NeurIPS), pp. 15750--15761, 2019.
+
+
+* Thanh Nguyen, Amulya Yadav, Branislav Bosansky, Yu Liang. [Tackling Sequential Attacks in Security Games](http://amulyayadav.com/Papers/gamesec19.pdf). In Proc. 10th Conference on Decision and Game Theory for Security (Gamesec), pp. 331-351, 2019.
+
+
+* C. Gomes, T. Dietterich, C. Barrett, J. Conrad, B. Dilkina, S. Ermon, F. Fang, A. Farnsworth, A. Fern, X. Fern, D. Fink, D. Fisher, A. R., Flecker, D. Freund, A. Fuller, J. Gregoire, J. Hopcroft, S. Kelling, Z. Kolter, W. Powell, N. Sintov, J. Selker, B. Selman, D. Sheldon, D. Shmoys, M. Tambe, W. Wong, C. Wood, X. Wu, Y. Xue, A. Yadav, A. Yakubu, M. L. Zeeman. [Computational Sustainability: Computing for a Better World and a Sustainable Future](http://amulyayadav.com/Papers/CACM.pdf). In Communications of the ACM (CACM), pp. 56â65, Vol. 6, Issue 9, August 2019.
+
+
+* Ramaravind Kommiya Mothilal, Amulya Yadav, Amit Sharma. [Optimizing Peer Referrals for Public Awareness using Contextual Bandits](http://amulyayadav.com/Papers/peer-referral.pdf). In Proc. 2nd Intl. ACM Conf. on Computing & Sustainable Societies (COMPASS), pp. 74-85, 2019.
+
+
+* Tracy Jia Shen, Robert Cowell, Adita Gupta, Thai Le, Amulya Yadav, Dongwon Lee. [How Gullible Are You? Predicting Susceptibility to Fake News](http://amulyayadav.com/Papers/websci19-sus.pdf). In Proc. 11th Intl. ACM Web Science Conf. (WebSci), pp. 287-288, 2019.
+
+
+* Shahrzad Gholami, Amulya Yadav, Long Tran-Thanh, Bistra Dilkina, Milind Tambe. [Dont Put All Your Strategies in One Basket: Playing Green Security Games with Imperfect Prior Knowledge](http://amulyayadav.com/Papers/AAMAS_2019.pdf). In Proc. 17th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 395-403, 2019.
+
+## 2018
+* Eric Rice, Robin Petering, Amanda Yoshioka-Maxwell, Jaih Craddock, Darlene Woo, Nicole Wilson, Laura Onasch-Vera, Bryan Wilder, Amulya Yadav and Milind Tambe. [Piloting the Use of Artificial Intelligence to Enhance HIV Prevention Interventions for Youth Experiencing Homelessness](http://amulyayadav.com/Papers/JSSWR.pdf). In Proc. of the Journal of the Society for Social Work and Research, Volume 9, Issue 4, pp. 551-573, 2018.
+
+
+* Amulya Yadav, Bryan Wilder, Eric Rice, Robin Petering, Jaih Craddock, Amanda Yoshioka-Maxwell, Mary Hemler, Laura Onasch-Vera, Milind Tambe and Darlene Woo. [Bridging the Gap Between Theory and Practice in Influence Maximization: Raising Awareness about HIV among Homeless Youth](http://amulyayadav.com/Papers/IJCAI18.pdf). In Proc. 27th International Joint Conference on Artificial Intelligence (IJCAI), pp. 5399-5403, 2018.
+
+
+* Amulya Yadav, Ritesh Noothigattu, Eric Rice, Laura Onasch-Vera, Leandro Marcolino and Milind Tambe. [Please be an influencer? Contingency Aware Influence Maximization](http://amulyayadav.com/Papers/AAMAS18b.pdf). In Proc. 17th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 1423-1432, 2018.
+
+
+* Lily Hu, Bryan Wilder, Amulya Yadav, Eric Rice and Milind Tambe. [Activating the Breakfast Club: Modeling Influence Spread in Natural World Social Networks](http://amulyayadav.com/Papers/AAMAS18a.pdf). In Proc. 17th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 1631-1640, 2018.
+
+
+## 2017
+* Amulya Yadav, Aida Rahmattalabi, Ece Kamar, Phebe Vayanos, Milind Tambe and Venil Loyd Noronha. [Explanation Systems for Influence Maximization Algorithms](http://amulyayadav.com/Papers/SocInf17.pdf). In Proc. 3rd Intl. IJCAI Workshop on Social Influence Analysis, 2017.
+
+
+* Bryan Wilder, Amulya Yadav, Nicole Immorlica, Eric Rice and Milind Tambe. [Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network](http://amulyayadav.com/Papers/AAMAS17B.pdf). In Proc. 16th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 1305-1313, 2017.
+
+
+* Amulya Yadav, Bryan Wilder, Eric Rice, Robin Petering, Jaih Craddock, Amanda Yoshioka-Maxwell, Mary Hemler, Laura Onasch-Vera, Milind Tambe, Darlene Woo. [Influence Maximization in the Field: The Arduous Journey From Emerging to Deployed Application](http://amulyayadav.com/Papers/Yadav-AAMAS2017.pdf). In Proc. 16th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 150-158, 2017. **Best Paper Award Nomination at AAMAS-17**
+
+
+* Amulya Yadav, Hau Chan, Albert Jiang, Haifeng Xu, Eric Rice, Milind Tambe. [Maximizing Awareness about HIV in Social Networks of Homeless Youth with Limited Information](http://amulyayadav.com/Papers/IJCAI17.pdf). In Proc. 26th International Joint Conference on Artificial Intelligence (IJCAI), pp. 4959-4963, 2017.
+
+
+* Bryan Wilder, Amulya Yadav, Nicole Immorlica, Eric Rice, Milind Tambe. [Robust, Dynamic Influence Maximization](http://amulyayadav.com/Papers/OPTMAS17.pdf). In Proc. 8th Intl. AAMAS Workshop on Optimization in Multiagent Systems, 2017.
+
+
+* Amulya Yadav, Hau Chan, Albert Jiang, Haifeng Xu, Eric Rice and Milind Tambe. [Using Social Networks to Raise HIV Awareness Among Homeless Youth](http://amulyayadav.com/Papers/IBM17.pdf). In IBM Journal of Research and Development: Volume 61, Issue 6(4), pp. 1-10, 2017.
+
+
+## 2016
+* Amulya Yadav, Hau Chan, Albert Xin Jiang, Eric Rice, Ece Kamar, Barbara Grosz and Milind Tambe. [POMDPs for Assisting Homeless Shelters: Computational and Deployment Challenges](http://amulyayadav.com/Papers/IDEAS16.pdf). In Proc. 2nd Intl. AAMAS Workshop on Issues with Deployment of Emerging Agent-based Systems, 2016. **Most Visionary Paper Award at IDEAS-16**
+
+
+* Amulya Yadav, Leandro Marcolino, Eric Rice, Robin Petering, Hailey Winetrobe, Harmony Rhoades, Milind Tambe and Heather Carmichael. [PSINET: Assisting HIV Prevention Amongst Homeless Youth by Planning Ahead](http://amulyayadav.com/Papers/AIMag.pdf). In AI Magazine: 37(2), pp. 47-62, July 2016.
+
+
+* Leandro Marcolino, Aravind S. Lakshminarayanan, Amulya Yadav and Milind Tambe. [Simultaneous Influencing and Mapping Social Networks](http://amulyayadav.com/Papers/AAMAS16B.pdf). In Proc. 15th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 1439-1440, 2016.
+
+
+* Amulya Yadav, Hau Chan, Albert Jiang, Haifeng Xu, Eric Rice and Milind Tambe. [Using Social Networks to Aid Homeless Shelters: Dynamic Influence Maximization under Uncertainty](http://amulyayadav.com/Papers/AAMAS16.pdf). In Proc. 15th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 740-748, 2016.
+
+
+* Benjamin Ford, Matthew Brown, Amulya Yadav, Amandeep Singh, Arunesh Sinha, Biplav Srivastava, Christopher Kiekintveld and Milind Tambe. [Protecting the NECTAR of the Ganga River through Game-Theoretic Factory Inspections](http://amulyayadav.com/Papers/PAAMS16.pdf). In Proc. 14th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS), pp. 97-108, 2016.
+
+
+* Amulya Yadav, Ece Kamar, Barbara Grosz and Milind Tambe. [HEALER: POMDP Planning for Scheduling Interventions among Homeless Youth](http://amulyayadav.com/Papers/AAMAS16_DEMO.pdf). In Proc. 15th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS Demo Track), pp. 1504-1506, 2016.
+
+## 2015
+* Eric Shieh, Albert Xin Jiang, Amulya Yadav, Pradeep Varakantham and Milind Tambe. [An Extended Study on Addressing Defender Teamwork while accounting for Uncertainty in Attacker Defender Games using Iterative Dec-MDPs](http://amulyayadav.com/Papers/MAGS15.pdf). In Multiagent and Grid Systems, Volume 11, Issue 4, pp. 189-226, 2015.
+
+
+* Thanh H. Nguyen, Francesco M. Delle Fave, Debarun Kar, Aravind S. Lakshminarayanan, Amulya Yadav, Milind Tambe, Noa Agmon, Andrew J. Plumptre, Margaret Driciru, Fred Wanyama and Aggrey Rwetsiba. [Making the most of Our Regrets: Regret-based Solutions to Handle Payoff Uncertainty and Elicitation in Green Security Games](http://amulyayadav.com/Papers/GameSec15.pdf). In Proc. 6th Conference on Decision and Game Theory for Security, pp. 170-191, 2015.
+
+
+* Amulya Yadav, Leandro Marcolino, Eric Rice, Robin Petering, Hailey Winetrobe, Harmony Rhoades, Milind Tambe and Heather Carmichael. [Preventing HIV Spread in Homeless Populations using PSINET](http://amulyayadav.com/Papers/IAAI2015.pdf). In Proc. 27th AAAI Conference on Innovative Applications of Artificial Intelligence, pp. 4006-4011, 2015.
+
+
+* Amulya Yadav, Thanh Nguyen, Francesco Delle Fave, Milind Tambe, Noa Agmon, Manish Jain, Widodo Ramono and Timbul Batubara. [Handling Payoff Uncertainty with Adversary Bounded Rationality in Green Security Domains](http://amulyayadav.com/Papers/AGT15.pdf). In  Proc. 1st IJCAI Workshop on Algorithmic Game Theory, 2015.
+
+## 2014
+* Eric Shieh, Albert Xin Jiang, Amulya Yadav, Pradeep Varakantham and Milind Tambe. [Unleashing Dec-MDPs in Security Games: Enabling Effective Defender Teamwork](http://amulyayadav.com/Papers/ECAI14.pdf). In Proc. 21st European Conference on Artificial Intelligence (ECAI), pp. 819-824, 2014.
+
+
+* Thanh Hong Nguyen, Amulya Yadav, Bo An, Milind Tambe and Craig Boutilier. [Regret-based Optimization and Preference Elicitation for Stackelberg Security Games with Uncertainty](http://amulyayadav.com/Papers/AAAI14.pdf). In Proc. 28th AAAI Conference on Artificial Intelligence, pp. 756-762, 2014.
+
+
+## 2012
+* Sriparna Saha, Ashok Singh Sairam, Amulya Yadav, and Asif Ekbal. [Genetic Algorithm Combined with Support Vector Machine for Building an Intrusion Detection System](http://amulyayadav.com/Papers/ICACCI12.pdf). In Proc. 1st International Conference on Advances in Computing, Communications & Informatics (ICACCI), pp. 566-572, 2012.
