@@ -18,15 +18,44 @@ bigimg:
 
 
 ## Publications
+* Eric Rice, Bryan Wilder, Laura Onasch-Vera, Graham DiGuiseppi, Robin Petering, Chyna Hill, Amulya Yadav, Sung-Jae Lee and Milind Tambe. [A Peer-Led, Artificial Intelligence-Augmented Social Network Intervention to Prevent HIV among Youth Experiencing Homelessness](https://journals.lww.com/jaids/Fulltext/2021/12151/A_Peer_Led,_Artificial_Intelligence_Augmented.4.aspx). In Proc. of the Journal of Acquired Immunodeficiency Syndrome (JAIDS), Volume 88, Issue S1, pp. S20--S26, 2021.
 
-* Alemu, W. G., and M. C. Wimberly. 2020. [Evaluation of remotely sensed and interpolated environmental datasets for vector-borne disease monitoring using *in situ* observations over the Amhara Region](https://www.mdpi.com/1424-8220/20/5/1316/htm), Ethiopia. Sensors 20: 1316.
-* Davis, J. K., Gebrehiwot, T., Worku. M., Awoke, W., Mihretie, A., Nekorchuk, D., and M. C. Wimberly. 2019. [A genetic algorithm for identifying spatially-varying environmental drivers in a malaria time series model](https://www.sciencedirect.com/science/article/pii/S136481521930129X?via%3Dihub). Environmental Modelling and Software 119: 275-284.
-* Merkord, C. L., Y. Liu, A. Mihretie, T. Gebrehiwot, W. Awoke, E. Bayabil, G. M. Henebry, G. T. Kassa, M. Lake, and M. C. Wimberly. 2017. [Integrating malaria surveillance with climate data for outbreak detection and forecasting: the EPIDEMIA system](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-017-1735-x). Malaria Journal 16:89.
-* Alemu, H. T., A. T. Kaptue, B. G. Senay, M. C. Wimberly, and G. M. Henebry. 2015. [Evapotranspiration in the Nile Basin: Identifying dynamics and drivers, (2002-2011)](https://www.mdpi.com/2073-4441/7/9/4914). Water 7: 4914-4931.
-* Liu, Y., J. Hu, I. Snell-Feikema, M. S. VanBemmel, A. Lamsal, M. C. Wimberly. 2015. [Software to facilitate remote sensing data access for disease early warning systems](https://www.sciencedirect.com/science/article/pii/S1364815215300116). Environmental Modelling and Software 74: 238-246. 
-* Midekisa A., B. Beyene, A. Mihretie, E. Bayabil, M. C. Wimberly. 2015. [Seasonal associations of climatic drivers and malaria in the highlands of Ethiopia](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0954-7). Parasites & Vectors 8: 339. 
-* Midekisa, A., G. B. Senay, and M. C. Wimberly. 2014. [Multi-sensor Earth observations to characterize wetlands and malaria epidemiology in Ethiopia](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014WR015634). Water Resources Research 50: 8791-8806.
-* Wimberly, M. C., and A. Midekisa. 2014. [Hydro-epidemiology of the Nile Basin: Understanding the complex linkages between water and infectious diseases](https://www.researchgate.net/publication/262912212_Hydro-Epidemiology_of_the_Nile_Basin_Understanding_the_Complex_Linkages_Between_Water_and_Infectious_Diseases). Pages 219-236 In: A. M. Melesse, W. Abtew, and S. G. Setegn, editors. Nile River Basin: Ecohydrological Challenges, Climate Change and Hydropolitics. Springer, New York.
-* Midekisa, A., G. Senay, G. M. Henebry, P. Semuniguse, and M. C. Wimberly. 2012. [Remote sensing-based time series models for malaria early warning in the highlands of Ethiopia](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-11-165). Malaria Journal 11: 165.
-* Wimberly, M. C., A. Midekisa, P. Semuniguse, H. Teka, G. M. Henebry, T. Chuang, and G. B. Senay. 2012. [Spatial synchrony of malaria outbreaks in a highland region of Ethiopia](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-3156.2012.03058.x). Tropical Medicine & International Health 17: 1192-1201.
+* Zi-Yi Dou, Anamika Barman-Adhikari, Fei Fang, and Amulya Yadav. [Harnessing Social Media to Identify Homeless Youth At-Risk of Substance Use](http://amulyayadav.com/Papers/aaai21fb.pdf). In Proc. 35th AAAI Conference on Artificial Intelligence, pp. 14748--14756, 2021.
 
+* Bryan Wilder, Laura Onasch-Vera, Graham Diguiseppi, Robin Petering, Chyna Hill, Amulya Yadav, Eric Rice and Milind Tambe. [Clinical trial of an AI-augmented intervention for HIV prevention in youth experiencing homelessness](http://amulyayadav.com/Papers/aaai21hiv.pdf). In Proc. 35th AAAI Conference on Artificial Intelligence, pp. 14948--14956, 2021. **Best Student Paper Award at the Mechanism Design for Social Good (MD4SG) Workshop, 2020.**
+
+* Maryam Tabar, Heesoo Park, Stephanie Winkler, Dongwon Lee, Anamika Barman-Adhikari, Amulya Yadav. [Identifying Homeless Youth at-risk of Substance Use Disorder: Data Driven Insights for Policymakers](http://amulyayadav.com/Papers/kdd2020.pdf). In Proc. 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), pp. 3092--3100, 2020.
+
+* Amulya Yadav, Roopali Singh, Nikolas Siapoutis, Anamika Barman-Adhikari, Yu Liang. [Optimal and Non-Discriminative Rehabilitation Program Design for Opioid Addiction Among Homeless Youth](http://amulyayadav.com/Papers/ijcai2020.pdf). In Proc. 29th International Joint Conference on Artificial Intelligence (IJCAI), pp. 4389--4395, 2020.
+
+* Aida Rahmattalabi, Phebe Vayanos, Anthony Fulginiti, Eric Rice, Bryan Wilder, Amulya Yadav, Milind Tambe. [Exploring Algorithmic Fairness in Robust Graph Covering Problems](http://amulyayadav.com/Papers/nips19.pdf). In Proc. 33rd Intl. Conf. on Neural Information Processing Systems (NeurIPS), pp. 15750--15761, 2019.
+
+* Eric Rice, Robin Petering, Amanda Yoshioka-Maxwell, Jaih Craddock, Darlene Woo, Nicole Wilson, Laura Onasch-Vera, Bryan Wilder, Amulya Yadav and Milind Tambe. [Piloting the Use of Artificial Intelligence to Enhance HIV Prevention Interventions for Youth Experiencing Homelessness](http://amulyayadav.com/Papers/JSSWR.pdf). In Proc. of the Journal of the Society for Social Work and Research, Volume 9, Issue 4, pp. 551-573, 2018.
+
+* Amulya Yadav, Bryan Wilder, Eric Rice, Robin Petering, Jaih Craddock, Amanda Yoshioka-Maxwell, Mary Hemler, Laura Onasch-Vera, Milind Tambe and Darlene Woo. [Bridging the Gap Between Theory and Practice in Influence Maximization: Raising Awareness about HIV among Homeless Youth](http://amulyayadav.com/Papers/IJCAI18.pdf). In Proc. 27th International Joint Conference on Artificial Intelligence (IJCAI), pp. 5399-5403, 2018.
+
+* Amulya Yadav, Ritesh Noothigattu, Eric Rice, Laura Onasch-Vera, Leandro Marcolino and Milind Tambe. [Please be an influencer? Contingency Aware Influence Maximization](http://amulyayadav.com/Papers/AAMAS18b.pdf). In Proc. 17th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 1423-1432, 2018.
+
+* Lily Hu, Bryan Wilder, Amulya Yadav, Eric Rice and Milind Tambe. [Activating the Breakfast Club: Modeling Influence Spread in Natural World Social Networks](http://amulyayadav.com/Papers/AAMAS18a.pdf). In Proc. 17th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 1631-1640, 2018.
+
+* Amulya Yadav, Aida Rahmattalabi, Ece Kamar, Phebe Vayanos, Milind Tambe and Venil Loyd Noronha. [Explanation Systems for Influence Maximization Algorithms](http://amulyayadav.com/Papers/SocInf17.pdf). In Proc. 3rd Intl. IJCAI Workshop on Social Influence Analysis, 2017.
+
+* Bryan Wilder, Amulya Yadav, Nicole Immorlica, Eric Rice and Milind Tambe. [Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network](http://amulyayadav.com/Papers/AAMAS17B.pdf). In Proc. 16th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 1305-1313, 2017.
+
+* Amulya Yadav, Bryan Wilder, Eric Rice, Robin Petering, Jaih Craddock, Amanda Yoshioka-Maxwell, Mary Hemler, Laura Onasch-Vera, Milind Tambe, Darlene Woo. [Influence Maximization in the Field: The Arduous Journey From Emerging to Deployed Application](http://amulyayadav.com/Papers/Yadav-AAMAS2017.pdf). In Proc. 16th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 150-158, 2017. **Best Paper Award Nomination at AAMAS-17**
+
+* Amulya Yadav, Hau Chan, Albert Jiang, Haifeng Xu, Eric Rice, Milind Tambe. [Maximizing Awareness about HIV in Social Networks of Homeless Youth with Limited Information](http://amulyayadav.com/Papers/IJCAI17.pdf). In Proc. 26th International Joint Conference on Artificial Intelligence (IJCAI), pp. 4959-4963, 2017.
+
+* Bryan Wilder, Amulya Yadav, Nicole Immorlica, Eric Rice, Milind Tambe. [Robust, Dynamic Influence Maximization](http://amulyayadav.com/Papers/OPTMAS17.pdf). In Proc. 8th Intl. AAMAS Workshop on Optimization in Multiagent Systems, 2017.
+
+* Amulya Yadav, Hau Chan, Albert Jiang, Haifeng Xu, Eric Rice and Milind Tambe. [Using Social Networks to Raise HIV Awareness Among Homeless Youth](http://amulyayadav.com/Papers/IBM17.pdf). In IBM Journal of Research and Development: Volume 61, Issue 6(4), pp. 1-10, 2017.
+
+* Amulya Yadav, Hau Chan, Albert Xin Jiang, Eric Rice, Ece Kamar, Barbara Grosz and Milind Tambe. [POMDPs for Assisting Homeless Shelters: Computational and Deployment Challenges](http://amulyayadav.com/Papers/IDEAS16.pdf). In Proc. 2nd Intl. AAMAS Workshop on Issues with Deployment of Emerging Agent-based Systems, 2016. **Most Visionary Paper Award at IDEAS-16**
+
+* Amulya Yadav, Leandro Marcolino, Eric Rice, Robin Petering, Hailey Winetrobe, Harmony Rhoades, Milind Tambe and Heather Carmichael. [PSINET: Assisting HIV Prevention Amongst Homeless Youth by Planning Ahead](http://amulyayadav.com/Papers/AIMag.pdf). In AI Magazine: 37(2), pp. 47-62, July 2016.
+
+* Leandro Marcolino, Aravind S. Lakshminarayanan, Amulya Yadav and Milind Tambe. [Simultaneous Influencing and Mapping Social Networks](http://amulyayadav.com/Papers/AAMAS16B.pdf). In Proc. 15th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 1439-1440, 2016.
+
+* Amulya Yadav, Hau Chan, Albert Jiang, Haifeng Xu, Eric Rice and Milind Tambe. [Using Social Networks to Aid Homeless Shelters: Dynamic Influence Maximization under Uncertainty](http://amulyayadav.com/Papers/AAMAS16.pdf). In Proc. 15th Intl. Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pp. 740-748, 2016.
+
+* Amulya Yadav, Leandro Marcolino, Eric Rice, Robin Petering, Hailey Winetrobe, Harmony Rhoades, Milind Tambe and Heather Carmichael. [Preventing HIV Spread in Homeless Populations using PSINET](http://amulyayadav.com/Papers/IAAI2015.pdf). In Proc. 27th AAAI Conference on Innovative Applications of Artificial Intelligence, pp. 4006-4011, 2015.
