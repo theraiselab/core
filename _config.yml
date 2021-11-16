@@ -4,20 +4,20 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://ecograph.github.io"
-baseurl: ""
+#url: "https://theraiselab.github.io"
+#baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://ecograph.github.io/projectname"
-#baseurl: "/projectname"
+url: "https://theraiselab.github.io/core"
+baseurl: "/core"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: EcoGRAPH Research Group
+title: The RAISE Lab
 
 # Short description of your site
-description: EcoGRAPH Research Group Website
+description: RAISE Lab @ PennState Group Website
 
 # How many news items to show in the Latest News section on the landing page
 num_latest_news_to_show: 3
@@ -66,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dr. Mike Wimberly
+  name: Dr. Amulya Yadav
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -74,10 +74,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # rss: true
-  email: "mcwimberly@ou.edu"
+  email: "amulya@psu.edu"
 # facebook: daattali
-  github: EcoGRAPH
-  twitter: mcwimberly
+  #github:
+  twitter: AmulyaYadav19
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -85,7 +85,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  youtube: channel/UC-NKR1cer4wkg8hHHP7K9Vw
+  youtube: playlist?list=PLjqyEUyoYJnA4uYT1uSHwFLuj2dnNGYke
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ecograph.net"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "ecograph.net"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
