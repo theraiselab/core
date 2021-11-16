@@ -1,3 +1,3 @@
-# EcoGRAPH Lab Website
+# The RAISE Lab Website
 
-This website is based on the Beautiful Jekyll template: (http://deanattali.com/beautiful-jekyll) 
+This website is based on the Beautiful Jekyll template: (http://deanattali.com/beautiful-jekyll). 
