@@ -1,36 +1,31 @@
 ---
 title: Research
 projects-list:
-  - name: Malaria Epidemiology
-    img: /img/clinic_small.JPG
-    desc: Climate variation and malaria outbreaks in Ethiopia
-    website: https://ecograph.github.io/malaria
-    url: https://ecograph.github.io/malaria
-  - name: West Nile Virus
-    img: /img/mosquito_small.jpg
-    desc: Environmental determinants of transmission
-    website: https://ecograph.github.io/westnile
-    url: https://ecograph.github.io/westnile
-  - name: Tropical Forest Landscapes
-    img: /img/forest_small.JPG
-    desc: Monitoring forest landscape change in West Africa
-    website: https://ecograph.github.io/degradation
-    url: https://ecograph.github.io/degradation
-  - name: CHANGE
-    img: /img/wui_small.JPG
-    desc: Integrated land use change and vegetation dynamics modeling
-    website: https://ecograph.github.io/change
-    url: https://ecograph.github.io/change
-  - name: Agricultural Land Systems
-    img: /img/grassland_conversion_2014_small.JPG
-    desc: Cropland expansion and grassland loss
-    website: https://ecograph.github.io/agriculture
-    url: https://ecograph.github.io/agriculture
-  - name: Obesity in the United States
-    img: /img/fruits_vegetables_small.jpg
-    desc: Influences of physical and social environments
-    website: https://ecograph.github.io/obesity
-    url: https://ecograph.github.io/obesity
+  - name: AI for Public Health
+    img: /img/homelessyouth.jpg
+    desc: HIV & Substance Abuse Prevention Among Homeless Youth in USA
+    website: https://theraiselab.github.io/core/hiv
+    url: https://theraiselab.github.io/core/hiv
+  - name: AI for Social Justice
+    img: /img/agfarmer.png
+    desc: Economic Emancipation of Poor Illiterate Farmers in Africa & India
+    website: https://theraiselab.github.io/core/farmer
+    url: https://theraiselab.github.io/core/farmer
+  - name: AI for COVID-19
+    img: /img/covid.png
+    desc: POMDP Driven Sequential COVID-19 Testing Policies
+    website: https://theraiselab.github.io/core/covid
+    url: https://theraiselab.github.io/core/covid
+  - name: AI for Public Safety and Security
+    img: /img/game.png
+    desc: Game Theoretic Patrolling Strategies to Improve Decision Making of Security Officials
+    website: https://theraiselab.github.io/core/game
+    url: https://theraiselab.github.io/core/game
+  - name: FaccT in Machine Learning
+    img: /img/Pipeline.png
+    desc: Fairness, Accountability, and Transparency in Machine Learning
+    website: https://theraiselab.github.io/core/interpretable
+    url: https://theraiselab.github.io/core/interpretable
 ---
 
 ## Projects
